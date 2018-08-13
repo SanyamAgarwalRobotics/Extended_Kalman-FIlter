@@ -11,9 +11,13 @@ px, py, vx, vy output coordinates must have an RMSE <= [.11, .11, 0.52, 0.52] wh
 The EKF accuracy was:
 
     Dataset 1 : RMSE <= 
-  ![png](Dataset_1_RMSE.png)
+   
+ ![png](Dataset_1_RMSE.png)
+ 
+ 
+ 
     Dataset 2 : RMSE <= 
-  ![png](Dataset_2_RMSE.png)
+ ![png](Dataset_2_RMSE.png)
 
 # Following the Correct Algorithm
 Your Sensor Fusion algorithm follows the general processing flow as taught in the preceding lessons.
